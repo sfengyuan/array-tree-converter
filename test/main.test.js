@@ -1,5 +1,5 @@
 /* eslint-disable */
-import { arrayTreeConverter } from '../src/main.js'
+import arrayTreeConverter from '../src/main.js'
 
 test('import', () => {
   let raw = [{

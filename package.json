@@ -1,8 +1,8 @@
 {
   "name": "array-tree-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert array to tree structure.",
-  "main": "dist/umd/.js",
+  "main": "dist/umd/main.js",
   "scripts": {
     "build": "rimraf dist/umd/* && rimraf dist/web/* && rollup -c",
     "test": "jest --coverage"

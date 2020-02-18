@@ -61,6 +61,10 @@ Output:
 ### Install
 
 ```
+npm install array-tree-converter
+//or
+<script src="https://unpkg.com/array-tree-converter@1.0.1/dist/web/index.js"></script>
+
 ```
 
 ```

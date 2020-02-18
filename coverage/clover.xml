@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1582028057179" clover="3.2.0">
-  <project timestamp="1582028057180" name="All files">
+<coverage generated="1582032867945" clover="3.2.0">
+  <project timestamp="1582032867945" name="All files">
     <metrics statements="13" coveredstatements="13" conditionals="9" coveredconditionals="9" methods="2" coveredmethods="2" elements="24" coveredelements="24" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
     <file name="main.js" path="/mnt/e/projects/tree-converter/src/main.js">
       <metrics statements="13" coveredstatements="13" conditionals="9" coveredconditionals="9" methods="2" coveredmethods="2"/>

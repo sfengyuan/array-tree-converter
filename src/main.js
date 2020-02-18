@@ -27,6 +27,4 @@ const arrayTreeConverter = (
   return tree
 }
 
-export {
-  arrayTreeConverter
-}
+export default arrayTreeConverter
