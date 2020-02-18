@@ -1,0 +1,1 @@
+var arrayTreeConverter=function(r){"use strict";return r.arrayTreeConverter=(r,{ID_KEY:e,PARENT_KEY:E,CHILDREN_KEY:t}={ID_KEY:"id",PARENT_KEY:"pid",CHILDREN_KEY:"children"})=>{let n={},a=[];return r.forEach(r=>{let u=r[e],K=r[E]||-1;n[u]=n[u]||[],r[t]=n[u],-1===K?a.push(r):(n[K]=n[K]||[],n[K].push(r))}),a},r}({});

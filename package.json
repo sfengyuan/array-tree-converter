@@ -1,0 +1,29 @@
+{
+  "name": "array-tree-converter",
+  "version": "1.0.0",
+  "description": "Convert array to tree structure.",
+  "main": "dist/umd/.js",
+  "scripts": {
+    "build": "rimraf dist/umd/* && rimraf dist/web/* && rollup -c",
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^25.1.0",
+    "rimraf": "^3.0.2",
+    "rollup": "^1.31.1",
+    "rollup-plugin-terser": "^5.2.0"
+  },
+  "author": "Jacob.sun.meta@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jacobsun/array-tree-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jacobsun/array-tree-converter/issues"
+  },
+  "keywords": [
+    "tree"
+  ]
+}
